@@ -4,7 +4,7 @@
 title = main.
 
 # (str) Package name
-package.name = main.
+package.name = main
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
